@@ -1,0 +1,2 @@
+com\ruoyi\common\auth\annotation\HasPermissions.class
+com\ruoyi\common\auth\aspect\PreAuthorizeAspect.class

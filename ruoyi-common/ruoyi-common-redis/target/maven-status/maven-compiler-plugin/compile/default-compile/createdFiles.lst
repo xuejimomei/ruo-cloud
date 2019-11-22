@@ -1,0 +1,5 @@
+com\ruoyi\common\redis\annotation\RedisCache.class
+com\ruoyi\common\redis\config\RedisConfig.class
+com\ruoyi\common\redis\aspect\RedisAspect.class
+com\ruoyi\common\redis\annotation\RedisEvict.class
+com\ruoyi\common\redis\util\RedisUtils.class
